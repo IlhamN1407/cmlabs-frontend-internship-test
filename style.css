@@ -32,3 +32,12 @@
 .category .category-item category-image {
   height: 25rem;
 }
+
+.category .meal-item {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  padding: 3rem 2rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  outline-offset: 1.5rem;
+  cursor: pointer;
+}
